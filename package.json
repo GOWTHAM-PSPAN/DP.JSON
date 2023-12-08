@@ -1,0 +1,17 @@
+{
+  "name": "js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json":"json-server --watch index.HTML"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
